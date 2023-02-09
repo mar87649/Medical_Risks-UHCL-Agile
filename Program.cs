@@ -1,3 +1,5 @@
+using System.Diagnostics;
+
 namespace Medical_Risks_UHCL_Agile
 {
     internal static class Program
@@ -13,6 +15,5 @@ namespace Medical_Risks_UHCL_Agile
             ApplicationConfiguration.Initialize();
             Application.Run(new GUI());
         }
-
     }
 }

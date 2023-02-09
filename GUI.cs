@@ -1,3 +1,5 @@
+using System.Diagnostics;
+
 namespace Medical_Risks_UHCL_Agile
 {
     public partial class GUI : Form

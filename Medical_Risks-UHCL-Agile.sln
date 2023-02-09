@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medical_Risks-UHCL-Agile", "Medical_Risks-UHCL-Agile.csproj", "{9A3B13DF-8308-424E-A216-92E7DD8ACAA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Medical_Risks_UHCL_Agile", "Medical_Risks_UHCL_Agile.csproj", "{9A3B13DF-8308-424E-A216-92E7DD8ACAA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medical_Risks_UHCL_Agile_Tests", "..\Medical_Risks_UHCL_Agile_Tests\Medical_Risks_UHCL_Agile_Tests.csproj", "{087C1B83-ADBA-455A-A32D-21699E73108F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9A3B13DF-8308-424E-A216-92E7DD8ACAA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A3B13DF-8308-424E-A216-92E7DD8ACAA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A3B13DF-8308-424E-A216-92E7DD8ACAA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{087C1B83-ADBA-455A-A32D-21699E73108F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{087C1B83-ADBA-455A-A32D-21699E73108F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{087C1B83-ADBA-455A-A32D-21699E73108F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{087C1B83-ADBA-455A-A32D-21699E73108F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

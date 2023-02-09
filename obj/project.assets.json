@@ -324,11 +324,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mario\\OneDrive - University of Houston-Clear Lake\\Documents\\Visual Studio 2022\\Medical_Risks-UHCL-Agile\\Medical_Risks-UHCL-Agile.csproj",
-      "projectName": "Medical_Risks-UHCL-Agile",
-      "projectPath": "C:\\Users\\Mario\\OneDrive - University of Houston-Clear Lake\\Documents\\Visual Studio 2022\\Medical_Risks-UHCL-Agile\\Medical_Risks-UHCL-Agile.csproj",
+      "projectUniqueName": "C:\\Users\\Mario\\OneDrive - University of Houston-Clear Lake\\Documents\\Visual Studio 2022\\Medical_Risksl_UHCL_Agile\\Medical_Risks_UHCL_Agile.csproj",
+      "projectName": "Medical_Risks_UHCL_Agile",
+      "projectPath": "C:\\Users\\Mario\\OneDrive - University of Houston-Clear Lake\\Documents\\Visual Studio 2022\\Medical_Risksl_UHCL_Agile\\Medical_Risks_UHCL_Agile.csproj",
       "packagesPath": "C:\\Users\\Mario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mario\\OneDrive - University of Houston-Clear Lake\\Documents\\Visual Studio 2022\\Medical_Risks-UHCL-Agile\\obj\\",
+      "outputPath": "C:\\Users\\Mario\\OneDrive - University of Houston-Clear Lake\\Documents\\Visual Studio 2022\\Medical_Risksl_UHCL_Agile\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mario\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Medical_Risks_UHCL_Agile</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="IronXL.Excel" Version="2023.1.14" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Front End Files\" />
+    <Folder Include="Back End Files\" />
+  </ItemGroup>
+
+</Project>

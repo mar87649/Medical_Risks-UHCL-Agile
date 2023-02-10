@@ -5,14 +5,10 @@
       "BitMiracle.LibTiff.NET/2.4.649": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/BitMiracle.LibTiff.NET.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/BitMiracle.LibTiff.NET.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/BitMiracle.LibTiff.NET.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/BitMiracle.LibTiff.NET.dll": {}
         }
       },
       "IronSoftware.System.Drawing/2023.1.11379": {
@@ -22,16 +18,12 @@
           "SixLabors.ImageSharp": "2.1.3"
         },
         "compile": {
-          "lib/netstandard2.0/IronSoftware.Drawing.Common.dll": {
-            "related": ".deps.json;.pdb;.xml"
-          },
+          "lib/netstandard2.0/IronSoftware.Drawing.Common.dll": {},
           "lib/netstandard2.0/SixLabors.Fonts.dll": {},
           "lib/netstandard2.0/SixLabors.ImageSharp.Drawing.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/IronSoftware.Drawing.Common.dll": {
-            "related": ".deps.json;.pdb;.xml"
-          },
+          "lib/netstandard2.0/IronSoftware.Drawing.Common.dll": {},
           "lib/netstandard2.0/SixLabors.Fonts.dll": {},
           "lib/netstandard2.0/SixLabors.ImageSharp.Drawing.dll": {}
         }
@@ -43,27 +35,19 @@
           "Microsoft.Extensions.Logging.Abstractions": "2.1.0"
         },
         "compile": {
-          "lib/netstandard2.0/IronXL.dll": {
-            "related": ".dll.config;.pdb;.xml"
-          }
+          "lib/netstandard2.0/IronXL.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/IronXL.dll": {
-            "related": ".dll.config;.pdb;.xml"
-          }
+          "lib/netstandard2.0/IronXL.dll": {}
         }
       },
       "Microsoft.Extensions.Logging.Abstractions/2.1.0": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {}
         }
       },
       "Microsoft.NETCore.Platforms/5.0.0": {
@@ -82,27 +66,19 @@
           "System.Text.Encoding.CodePages": "5.0.0"
         },
         "compile": {
-          "lib/netcoreapp3.1/SixLabors.ImageSharp.dll": {
-            "related": ".xml"
-          }
+          "lib/netcoreapp3.1/SixLabors.ImageSharp.dll": {}
         },
         "runtime": {
-          "lib/netcoreapp3.1/SixLabors.ImageSharp.dll": {
-            "related": ".xml"
-          }
+          "lib/netcoreapp3.1/SixLabors.ImageSharp.dll": {}
         }
       },
       "System.Runtime.CompilerServices.Unsafe/5.0.0": {
         "type": "package",
         "compile": {
-          "ref/netstandard2.1/System.Runtime.CompilerServices.Unsafe.dll": {
-            "related": ".xml"
-          }
+          "ref/netstandard2.1/System.Runtime.CompilerServices.Unsafe.dll": {}
         },
         "runtime": {
-          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
-            "related": ".xml"
-          }
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
         }
       },
       "System.Text.Encoding.CodePages/5.0.0": {
@@ -111,14 +87,10 @@
           "Microsoft.NETCore.Platforms": "5.0.0"
         },
         "compile": {
-          "lib/netstandard2.0/System.Text.Encoding.CodePages.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/System.Text.Encoding.CodePages.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/System.Text.Encoding.CodePages.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/System.Text.Encoding.CodePages.dll": {}
         },
         "runtimeTargets": {
           "runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll": {
@@ -319,27 +291,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mario\\.nuget\\packages\\": {}
+    "C:\\Users\\Lucas Phan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mario\\OneDrive - University of Houston-Clear Lake\\Documents\\Visual Studio 2022\\Medical_Risksl_UHCL_Agile\\Medical_Risks_UHCL_Agile.csproj",
+      "projectUniqueName": "C:\\Users\\Lucas Phan\\Desktop\\Git Repo\\Medical_Risks-UHCL-Agile\\Medical_Risks_UHCL_Agile.csproj",
       "projectName": "Medical_Risks_UHCL_Agile",
-      "projectPath": "C:\\Users\\Mario\\OneDrive - University of Houston-Clear Lake\\Documents\\Visual Studio 2022\\Medical_Risksl_UHCL_Agile\\Medical_Risks_UHCL_Agile.csproj",
-      "packagesPath": "C:\\Users\\Mario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mario\\OneDrive - University of Houston-Clear Lake\\Documents\\Visual Studio 2022\\Medical_Risksl_UHCL_Agile\\obj\\",
+      "projectPath": "C:\\Users\\Lucas Phan\\Desktop\\Git Repo\\Medical_Risks-UHCL-Agile\\Medical_Risks_UHCL_Agile.csproj",
+      "packagesPath": "C:\\Users\\Lucas Phan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lucas Phan\\Desktop\\Git Repo\\Medical_Risks-UHCL-Agile\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lucas Phan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0-windows"
+        "net6.0-windows7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://ci.appveyor.com/nuget/fscheck": {}
       },
       "frameworks": {
         "net6.0-windows7.0": {
@@ -368,8 +341,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -381,7 +353,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
